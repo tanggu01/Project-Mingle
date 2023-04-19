@@ -3,6 +3,9 @@
 Project Portfolio: 
 https://taehyun-kim.notion.site/Project-Mingle-0686f82c8e4d4f9f85c7677b4b86cc92
 
+Instagram:
+https://www.instagram.com/mingle.hk/
+
 App Store Link: 
 https://apps.apple.com/kr/app/%EB%B0%8D%EA%B8%80-%EB%82%B4-%EC%9C%A0%ED%95%99%EC%83%9D%ED%99%9C%EC%9D%98-%EC%A2%85%EC%B0%A9%EC%A7%80/id1659655435
 
