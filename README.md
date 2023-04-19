@@ -26,7 +26,7 @@ https://play.google.com/store/apps/details?id=com.community.mingle&fbclid=PAAab5
 
 **Vice President** | **Backend Lead** | **Project Manager**
 
-| 2022.02 ~ 현재
+| 2022.06 ~ 2022.08
 
 - Backend 4명, ios 3명, Android 4명, 디자이너 1명으로 이루어진 개발팀을 만들어 프로젝트 진행
 - 프로젝트 기획 및 Flow Chart, Wire Frame 설계
